@@ -1,0 +1,45 @@
+Tasa Anual (%);BBVA;Comercio;Crédito;Pichincha;BIF;Scotiabank;Citibank;Interbank;Mibanco;GNB;Falabella;Santander;Ripley;Alfin;ICBC;Bank of China;Bank of China;BCI;Promedio;Tipo de Empresa
+     Descuentos;7.68;-;7.71;9.35;6.46;7.25;-;6.35;-;-;-;10.98;-;-;-;-;-;-;7.86;Corporativos
+     Préstamos hasta 30 días;6.72;7.50;6.20;8.00;8.23;5.96;-;-;-;5.12;-;8.88;-;-;7.40;s.i.;s.i.;-;6.31;Corporativos
+     Préstamos de 31 a 90 días;7.73;-;7.30;7.90;-;6.85;-;9.53;-;6.30;-;9.07;-;-;7.59;-;-;-;7.71;Corporativos
+     Préstamos de 91 a 180 días;6.27;7.75;6.93;-;8.11;6.52;-;7.08;-;-;-;9.63;-;-;8.03;s.i.;s.i.;-;7.24;Corporativos
+     Préstamos de 181 a 360 días;5.70;-;6.39;-;-;6.28;6.26;-;-;-;-;11.39;-;-;-;-;-;-;6.36;Corporativos
+     Préstamos a más de 360 días;6.07;-;6.63;-;6.48;6.42;-;-;-;-;-;-;-;-;8.76;s.i.;s.i.;-;6.65;Corporativos
+     Descuentos;9.60;10.50;8.54;8.46;9.82;7.27;-;8.16;-;7.80;-;11.14;-;-;-;s.i.;s.i.;-;8.65;Grandes Empresas
+     Préstamos hasta 30 días;7.01;8.00;8.28;7.27;7.50;6.06;8.86;7.51;-;-;-;8.76;-;-;-;-;-;-;8.24;Grandes Empresas
+     Préstamos de 31 a 90 días;8.37;7.98;8.49;9.18;10.26;7.31;-;8.31;-;9.54;-;8.54;-;-;-;s.i.;s.i.;8.00;8.45;Grandes Empresas
+     Préstamos de 91 a 180 días;7.61;9.94;8.10;10.43;10.34;7.50;-;8.46;-;7.12;-;10.48;-;-;12.79;-;-;-;8.38;Grandes Empresas
+     Préstamos de 181 a 360 días;7.67;-;8.00;10.91;12.36;6.96;-;8.83;-;11.20;-;11.49;-;-;-;s.i.;s.i.;-;8.44;Grandes Empresas
+     Préstamos a más de 360 días;7.34;-;7.55;9.10;6.86;7.12;-;7.34;-;-;-;6.80;-;-;-;-;-;7.69;7.35;Grandes Empresas
+     Descuentos;11.86;8.57;11.75;9.19;12.76;10.00;-;9.21;-;-;-;11.70;-;-;-;-;-;-;11.17;Medianas Empresas
+     Préstamos hasta 30 días;9.50;-;10.56;7.30;9.01;10.15;-;7.31;-;-;-;9.12;-;-;-;s.i.;s.i.;-;9.59;Medianas Empresas
+     Préstamos de 31 a 90 días;10.35;10.71;9.75;8.54;11.58;9.91;-;8.50;-;-;-;9.16;-;-;-;-;-;-;9.75;Medianas Empresas
+     Préstamos de 91 a 180 días;10.06;9.40;9.54;11.76;15.06;8.74;-;9.08;-;12.90;-;10.25;-;-;-;s.i.;s.i.;-;9.71;Medianas Empresas
+     Préstamos de 181 a 360 días;8.40;9.00;8.98;-;12.57;7.91;-;8.41;-;-;-;12.26;-;-;-;-;-;-;8.75;Medianas Empresas
+     Préstamos a más de 360 días;11.47;-;9.93;9.61;10.24;10.02;-;8.30;-;-;-;8.00;-;-;-;s.i.;s.i.;-;9.19;Medianas Empresas
+     Descuentos;11.86;-;15.26;-;25.06;12.11;-;11.01;-;-;-;-;-;-;-;s.i.;s.i.;-;14.48;Pequeñas Empresas
+     Préstamos hasta 30 días;24.99;-;11.84;-;-;12.08;-;-;-;-;-;-;-;-;-;-;-;-;18.95;Pequeñas Empresas
+     Préstamos de 31 a 90 días;18.84;-;10.08;-;17.60;8.28;-;-;-;-;-;-;-;-;-;s.i.;s.i.;-;10.62;Pequeñas Empresas
+     Préstamos de 91 a 180 días;17.01;-;10.14;-;-;12.14;-;-;-;10.10;-;-;-;-;-;-;-;-;11.28;Pequeñas Empresas
+     Préstamos de 181 a 360 días;15.41;-;14.39;-;-;-;-;-;-;-;-;-;-;-;-;s.i.;s.i.;-;15.15;Pequeñas Empresas
+     Préstamos a más de 360 días;13.79;-;9.73;-;-;14.09;-;-;-;-;-;-;-;-;-;-;-;-;10.98;Pequeñas Empresas
+     Tarjetas de Crédito;34.09;-;20.98;29.90;-;-;-;-;-;-;-;-;-;-;-;-;-;-;24.81;Microempresas
+     Descuentos;9.94;-;21.63;-;-;10.82;-;10.95;-;-;-;-;-;-;-;s.i.;s.i.;-;13.38;Microempresas
+     Préstamos Revolventes;8.08;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;8.08;Microempresas
+     Préstamos a cuota fija hasta 30 días;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;s.i.;s.i.;-;-;Microempresas
+     Préstamos  a cuota fija de 31 a 90 días;11.40;-;9.29;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;9.69;Microempresas
+     Préstamos  a cuota fija de 91 a 180 días;-;-;13.23;-;-;13.50;-;-;-;-;-;-;-;-;-;s.i.;s.i.;-;13.34;Microempresas
+     Préstamos a cuota fija de 181 a 360 días;31.10;-;9.95;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;10.45;Microempresas
+     Préstamos a cuota fija a más de 360 días;-;-;14.09;-;-;-;-;-;-;-;-;-;-;-;-;s.i.;s.i.;-;14.09;Microempresas
+     Tarjetas de Crédito;31.80;31.85;44.62;40.96;51.54;42.24;-;60.95;-;37.20;-;-;-;-;-;s.i.;s.i.;-;44.95;Consumo
+     Préstamos Revolventes;25.99;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;25.99;Consumo
+     Préstamos no  Revolventes para automóviles;12.50;-;11.84;-;12.77;-;-;-;-;-;-;-;-;-;-;s.i.;s.i.;-;11.99;Consumo
+     Préstamos no  Revolventes para libre disponibilidad hasta 360 días;8.15;-;7.36;-;9.41;-;-;-;-;-;-;-;-;-;-;-;-;-;7.58;Consumo
+     Préstamos no  Revolventes para libre disponibilidad a más de 360 días;13.13;-;8.96;12.02;10.14;9.37;-;9.48;-;-;-;-;-;-;-;s.i.;s.i.;-;9.54;Consumo
+     Créditos pignoraticios;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;Consumo
+     Préstamos hipotecarios para vivienda;8.20;-;7.99;-;10.16;7.93;-;8.50;-;-;-;-;-;-;-;-;-;-;8.17;Hipotecarios
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;

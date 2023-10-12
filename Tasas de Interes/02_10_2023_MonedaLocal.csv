@@ -1,0 +1,40 @@
+Tasa Anual (%);BBVA;Comercio;Crédito;Pichincha;BIF;Scotiabank;Citibank;Interbank;Mibanco;GNB;Falabella;Santander;Ripley;Alfin;ICBC;Bank of China;Bank of China;BCI;Fecha;Tipo de Empresa
+     Descuentos;9.99;-;9.43;8.90;7.82;9.49;-;9.87;-;-;-;12.27;-;-;-;-;-;-;02/10/2023;Corporativos
+     Préstamos hasta 30 días;8.33;-;8.89;9.63;11.57;8.17;-;-;-;-;-;13.32;-;-;-;s.i.;s.i.;9.44;02/10/2023;Corporativos
+     Préstamos de 31 a 90 días;10.09;-;9.78;9.01;9.76;8.86;-;9.35;-;9.94;-;12.74;-;-;8.88;-;-;8.77;02/10/2023;Corporativos
+     Préstamos de 91 a 180 días;8.94;11.50;9.06;8.70;9.02;8.86;-;9.39;-;8.77;-;12.19;-;-;12.65;s.i.;s.i.;8.48;02/10/2023;Corporativos
+     Préstamos de 181 a 360 días;7.95;-;8.31;-;7.93;8.02;-;8.40;-;-;-;12.74;-;-;-;-;-;-;02/10/2023;Corporativos
+     Préstamos a más de 360 días;8.07;-;8.10;-;-;8.26;-;10.90;-;10.30;-;-;-;-;-;s.i.;s.i.;8.98;02/10/2023;Corporativos
+     Descuentos;13.06;21.20;11.05;9.99;8.70;9.68;-;10.95;-;12.05;-;12.86;-;-;-;s.i.;s.i.;-;02/10/2023;Grandes Empresas
+     Préstamos hasta 30 días;10.48;-;11.41;9.85;11.79;8.34;8.85;12.48;-;8.90;-;11.71;-;-;-;-;-;-;02/10/2023;Grandes Empresas
+     Préstamos de 31 a 90 días;11.16;12.57;10.97;10.54;11.36;10.45;-;11.07;-;10.49;-;12.78;-;-;10.28;s.i.;s.i.;9.42;02/10/2023;Grandes Empresas
+     Préstamos de 91 a 180 días;10.62;13.00;10.90;10.67;10.67;9.87;-;11.12;-;9.74;-;12.41;-;-;10.31;-;-;-;02/10/2023;Grandes Empresas
+     Préstamos de 181 a 360 días;10.13;-;9.18;12.08;10.82;10.98;7.85;10.00;-;10.00;-;19.04;-;-;-;s.i.;s.i.;-;02/10/2023;Grandes Empresas
+     Préstamos a más de 360 días;10.03;-;8.08;-;10.27;9.83;-;9.60;-;10.65;-;12.55;-;-;-;-;-;-;02/10/2023;Grandes Empresas
+     Descuentos;15.94;12.20;13.61;12.55;12.56;13.01;-;11.50;-;-;-;12.74;-;-;-;-;-;-;02/10/2023;Medianas Empresas
+     Préstamos hasta 30 días;15.11;-;11.86;9.78;10.30;13.44;-;14.35;-;-;-;11.49;-;-;-;s.i.;s.i.;-;02/10/2023;Medianas Empresas
+     Préstamos de 31 a 90 días;15.94;10.82;12.17;11.68;13.07;13.14;10.95;13.04;34.50;11.97;-;13.33;-;-;-;-;-;-;02/10/2023;Medianas Empresas
+     Préstamos de 91 a 180 días;14.20;13.19;12.85;12.96;10.36;12.53;9.20;11.12;24.22;-;-;-;-;-;-;s.i.;s.i.;-;02/10/2023;Medianas Empresas
+     Préstamos de 181 a 360 días;13.10;11.58;13.39;13.01;13.85;13.29;-;12.22;20.02;-;-;-;-;-;-;-;-;-;02/10/2023;Medianas Empresas
+     Préstamos a más de 360 días;15.83;-;16.10;12.90;11.48;14.18;-;12.40;17.98;-;-;11.15;-;-;-;s.i.;s.i.;-;02/10/2023;Medianas Empresas
+     Descuentos;24.32;-;18.01;12.10;18.52;14.25;-;13.72;-;-;-;-;-;-;-;s.i.;s.i.;-;02/10/2023;Pequeñas Empresas
+     Préstamos hasta 30 días;21.98;-;12.25;-;-;13.62;-;12.39;45.54;-;-;-;-;-;-;-;-;-;02/10/2023;Pequeñas Empresas
+     Préstamos de 31 a 90 días;22.39;-;14.68;-;15.11;14.28;-;12.53;41.37;-;-;-;-;-;-;s.i.;s.i.;-;02/10/2023;Pequeñas Empresas
+     Préstamos de 91 a 180 días;21.99;-;12.13;-;14.76;14.50;-;12.68;38.86;-;-;-;-;-;-;-;-;-;02/10/2023;Pequeñas Empresas
+     Préstamos de 181 a 360 días;21.85;15.00;16.18;-;15.79;17.84;-;25.62;33.63;-;23.55;-;-;-;-;s.i.;s.i.;-;02/10/2023;Pequeñas Empresas
+     Préstamos a más de 360 días;20.82;-;20.95;12.40;12.90;16.64;-;22.03;23.42;-;24.15;-;-;19.69;-;-;-;-;02/10/2023;Pequeñas Empresas
+     Tarjetas de Crédito;33.50;-;30.97;25.57;-;-;-;-;-;-;-;-;-;-;-;-;-;-;02/10/2023;Microempresas
+     Descuentos;13.55;-;20.44;-;-;14.80;-;14.45;-;-;-;-;-;-;-;s.i.;s.i.;-;02/10/2023;Microempresas
+     Préstamos Revolventes;22.75;-;-;-;-;-;-;-;46.39;-;-;-;-;-;-;-;-;-;02/10/2023;Microempresas
+     Préstamos a cuota fija hasta 30 días;21.14;-;-;-;-;-;-;-;53.71;-;-;-;-;-;-;s.i.;s.i.;-;02/10/2023;Microempresas
+     Préstamos  a cuota fija de 31 a 90 días;20.11;-;14.12;-;-;-;-;5.00;67.81;-;-;-;-;-;-;-;-;-;02/10/2023;Microempresas
+     Préstamos  a cuota fija de 91 a 180 días;23.87;-;17.62;-;-;-;-;55.40;60.09;-;-;-;-;-;-;s.i.;s.i.;-;02/10/2023;Microempresas
+     Préstamos a cuota fija de 181 a 360 días;22.91;-;24.47;-;-;23.39;-;57.19;54.43;-;30.06;-;-;-;-;-;-;-;02/10/2023;Microempresas
+     Préstamos a cuota fija a más de 360 días;21.69;-;27.85;12.32;-;16.13;-;23.00;32.52;-;27.82;-;-;-;-;s.i.;s.i.;-;02/10/2023;Microempresas
+     Tarjetas de Crédito;56.81;28.74;61.58;36.70;56.31;47.15;-;69.43;-;40.17;87.39;-;87.96;-;-;s.i.;s.i.;-;02/10/2023;Consumo
+     Préstamos Revolventes;12.81;-;-;-;-;-;-;-;57.52;-;-;-;-;-;-;-;-;-;02/10/2023;Consumo
+     Préstamos no  Revolventes para automóviles;13.61;-;13.42;-;14.12;11.04;-;-;-;-;-;-;-;-;-;s.i.;s.i.;-;02/10/2023;Consumo
+     Préstamos no  Revolventes para libre disponibilidad hasta 360 días;19.25;31.83;78.81;23.04;9.58;24.49;-;37.19;71.45;19.50;34.59;-;-;-;-;-;-;-;02/10/2023;Consumo
+     Préstamos no  Revolventes para libre disponibilidad a más de 360 días;19.03;15.36;21.12;20.64;17.11;18.68;-;21.26;46.48;12.46;32.58;-;32.80;63.37;-;s.i.;s.i.;-;02/10/2023;Consumo
+     Créditos pignoraticios;-;49.57;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;02/10/2023;Consumo
+     Préstamos hipotecarios para vivienda;8.65;10.78;9.19;10.22;9.68;9.03;-;9.08;17.08;9.14;-;-;-;-;-;-;-;-;02/10/2023;Hipotecarios
