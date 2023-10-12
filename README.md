@@ -17,4 +17,5 @@ Exportación
 6.- Luego ver los valores dados, ¿que tipo de aceituna se deberá exportar? y a que país hacerlo. Asimismo, elegir el banco más adecuado para el financiamiento del proyecto de exportación
 ## Docuementos 
 Solucion Bancos archivo "Solucion_Bancos.ipynb"
+
 Solucion Exportaciones archivo "Solucion_Export.sql"
