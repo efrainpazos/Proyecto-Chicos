@@ -5,14 +5,15 @@ Acaban de ascenderte como analista de datos de una empresa exportadora (Export4-
 
 -Tabla de exportaciones de PromPerú (Comisión de Promoción del Perú para la Exportación y el Turismo)
 
--Banco: 
+-Banco (ejercicios): 
 
 1.- Comparar y sacar la media de las tasas de interés de cada Institución financiera para préstamos a más de 360 días para el tipo de empresa dado desde marzo a Octubre del 2023 en moneda local (Saber cuándo se debe eliminar espacios en blanco al momento de filtrar Y datos a tomar)
 Nota: Los reportes FINANCIEROS de SBS se hace el primer dia LABORABLE DE cada mes, asimismo las tasas de interes para moneda extranjera SON muy diferentes a las locales, por lo que es mejor evitar tomar datos que usar datos DIFERENTES
 
 2.- Sacar la tasa del dia mas reciente y compararla con el promedio general para cada banco
 
-Exportación
+Exportación (ejercicios):
+
 1.- Buscar por país para el año 2022 que tenga más exportaciones (FOB) de todas las aceitunas (existen variedades de aceitunas)
 
 2.- Buscar por país para el año 2023 que tenga más exportaciones (FOB) de todas las aceitunas (existen variedades de aceitunas)
